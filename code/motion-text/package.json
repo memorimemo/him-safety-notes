@@ -1,0 +1,7 @@
+{
+  "name": "motion-text-redteam",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "dependencies": { "@napi-rs/canvas": "^1.0.10", "ws": "^8.22.0", "playwright-core": "^1.48.0" }
+}

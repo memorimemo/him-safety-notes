@@ -1,0 +1,197 @@
+{
+ "note": "Generic sample questions written for this repo. Not HIM's question bank. Use 40+ items to reproduce the published sample size.",
+ "items": [
+  {
+   "id": "s0",
+   "topic": "sample",
+   "q": "Which planet is known as the Red Planet?",
+   "o": [
+    "Venus",
+    "Mars",
+    "Jupiter",
+    "Saturn"
+   ],
+   "c": 1
+  },
+  {
+   "id": "s1",
+   "topic": "sample",
+   "q": "How many sides does a hexagon have?",
+   "o": [
+    "Five",
+    "Six",
+    "Seven",
+    "Eight"
+   ],
+   "c": 1
+  },
+  {
+   "id": "s2",
+   "topic": "sample",
+   "q": "What is the chemical symbol for gold?",
+   "o": [
+    "Ag",
+    "Au",
+    "Gd",
+    "Go"
+   ],
+   "c": 1
+  },
+  {
+   "id": "s3",
+   "topic": "sample",
+   "q": "Which ocean is the largest?",
+   "o": [
+    "Atlantic",
+    "Indian",
+    "Arctic",
+    "Pacific"
+   ],
+   "c": 3
+  },
+  {
+   "id": "s4",
+   "topic": "sample",
+   "q": "What gas do plants absorb from the air?",
+   "o": [
+    "Oxygen",
+    "Nitrogen",
+    "Carbon dioxide",
+    "Helium"
+   ],
+   "c": 2
+  },
+  {
+   "id": "s5",
+   "topic": "sample",
+   "q": "Which instrument has 88 keys?",
+   "o": [
+    "Violin",
+    "Piano",
+    "Flute",
+    "Harp"
+   ],
+   "c": 1
+  },
+  {
+   "id": "s6",
+   "topic": "sample",
+   "q": "What is the freezing point of water in Celsius?",
+   "o": [
+    "0",
+    "10",
+    "32",
+    "100"
+   ],
+   "c": 0
+  },
+  {
+   "id": "s7",
+   "topic": "sample",
+   "q": "Which animal is the largest mammal?",
+   "o": [
+    "Elephant",
+    "Blue whale",
+    "Giraffe",
+    "Orca"
+   ],
+   "c": 1
+  },
+  {
+   "id": "s8",
+   "topic": "sample",
+   "q": "How many minutes are in two hours?",
+   "o": [
+    "100",
+    "120",
+    "140",
+    "160"
+   ],
+   "c": 1
+  },
+  {
+   "id": "s9",
+   "topic": "sample",
+   "q": "Which continent is Egypt in?",
+   "o": [
+    "Asia",
+    "Europe",
+    "Africa",
+    "Oceania"
+   ],
+   "c": 2
+  },
+  {
+   "id": "s10",
+   "topic": "sample",
+   "q": "What colour do you get mixing blue and yellow?",
+   "o": [
+    "Green",
+    "Purple",
+    "Orange",
+    "Brown"
+   ],
+   "c": 0
+  },
+  {
+   "id": "s11",
+   "topic": "sample",
+   "q": "Which shape has three sides?",
+   "o": [
+    "Square",
+    "Circle",
+    "Triangle",
+    "Pentagon"
+   ],
+   "c": 2
+  },
+  {
+   "id": "s12",
+   "topic": "sample",
+   "q": "What is the capital of Japan?",
+   "o": [
+    "Osaka",
+    "Kyoto",
+    "Tokyo",
+    "Nagoya"
+   ],
+   "c": 2
+  },
+  {
+   "id": "s13",
+   "topic": "sample",
+   "q": "Which metal is liquid at room temperature?",
+   "o": [
+    "Iron",
+    "Mercury",
+    "Copper",
+    "Zinc"
+   ],
+   "c": 1
+  },
+  {
+   "id": "s14",
+   "topic": "sample",
+   "q": "How many legs does a spider have?",
+   "o": [
+    "Six",
+    "Eight",
+    "Ten",
+    "Twelve"
+   ],
+   "c": 1
+  },
+  {
+   "id": "s15",
+   "topic": "sample",
+   "q": "Which language has the most native speakers?",
+   "o": [
+    "English",
+    "Spanish",
+    "Hindi",
+    "Mandarin"
+   ],
+   "c": 3
+  }
+ ]
+}
